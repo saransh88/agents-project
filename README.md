@@ -1,8 +1,7 @@
 # Agents Project
 
 ## Description
-This project demonstrates the use of OpenAI Agents SDK to create an interactive testing agent that follows ISTQB standards.
-
+This project demonstrates the use of OpenAI Agents SDK to create an interactive agents including voice and text
 ## Setup
 
 1. Clone the repository:
